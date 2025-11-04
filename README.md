@@ -3,6 +3,7 @@
 Skills
 
 [![RobloxStudio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org)
 
 Socials
