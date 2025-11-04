@@ -7,7 +7,7 @@ Skills
 
 Socials
 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/JAE0YUN)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/jae0yun)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/JAE0Y2N)
 
 
