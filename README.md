@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there, My name is Jaeyoung Yun.
+
+##Skills
+
+[![RobloxStudio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com)
+[![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org)
+
+##Socials
+
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/JAE0YUN)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/JAE0Y2N)
+
 
 <!--
 **JAE0Y2N/JAE0Y2N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
