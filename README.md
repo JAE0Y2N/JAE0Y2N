@@ -1,11 +1,11 @@
-## Hello there, My name is Jaeyoung Yun.
+## Hello there, My name is Jaeyoung.
 
-## Skills
+Skills
 
 [![RobloxStudio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org)
 
-## Socials
+Socials
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/JAE0YUN)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/JAE0Y2N)
