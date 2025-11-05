@@ -6,9 +6,12 @@ Skills
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
 [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org)
-[![Xcode](https://skillicons.dev/icons?i=xcode)](https://aws.amazon.com)
+[![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org)
+[![HTMX](https://skillicons.dev/icons?i=htmx)](https://htmx.org)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
+[![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
 
 Socials
 
