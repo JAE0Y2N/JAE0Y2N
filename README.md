@@ -3,6 +3,7 @@
 Skills
 
 [![RobloxStudio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com)
+[![RobloxStudio](https://skillicons.dev/icons?i=lua)](https://www.lua.org)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift)
