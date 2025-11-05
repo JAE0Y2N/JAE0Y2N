@@ -7,7 +7,7 @@ Skills
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift)
 [![Swift](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-https://aws.amazon.com/
+
 Socials
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/jae0yun)
