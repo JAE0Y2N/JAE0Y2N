@@ -6,6 +6,7 @@ Skills
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
 [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org)
+[![Xcode](https://skillicons.dev/icons?i=xcode)](https://aws.amazon.com)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 
