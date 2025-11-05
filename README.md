@@ -16,7 +16,7 @@ Skills
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
-[![Bash](https://skillicons.dev/icons?i=bash_)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Bash](https://skillicons.dev/icons?i=bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![CloudFlare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 
