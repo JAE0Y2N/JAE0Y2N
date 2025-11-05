@@ -15,10 +15,11 @@ Skills
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
-[![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS) t
+[![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
 [![Bash](https://skillicons.dev/icons?i=bash_)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![CloudFlare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+
 Socials
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/jae0yun)
